@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
+<<<<<<< HEAD
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+=======
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.launching.macosx.MacOSXType/Zulu 17.30.15 [17.0.1]">
+>>>>>>> 4bb3ec14a93fc9ad244f9784fbdd1797766768dd
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/postgresql-42.3.1"/>
+<<<<<<< HEAD
 	<classpathentry kind="src" path="src"/>
+=======
+>>>>>>> 4bb3ec14a93fc9ad244f9784fbdd1797766768dd
 	<classpathentry kind="output" path="bin"/>
 </classpath>
